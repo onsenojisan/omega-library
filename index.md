@@ -4,7 +4,9 @@
 
 Run first: 30 sec, no setup.
 
-Ω is a structural concentration measure. This is not prediction, not causal proof, and not optimization. Structural concentration only.
+Ω is a structural concentration measure.
+
+What Ω is NOT: prediction, causal proof, optimization, or deterministic collapse. Structural concentration only.
 
 Zenodo is the canonical archive and public record. GitHub Pages is the execution and navigation hub.
 
