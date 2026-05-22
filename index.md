@@ -1,8 +1,12 @@
 # Ω Library
 
-[Run 30 sec Colab](https://colab.research.google.com/drive/1FGu7_G1avub-0PUV6cpdox8cojuOvY9C)
+[Run 30 sec Colab](https://colab.research.google.com/drive/1FGu7_G1avub-0PUV6cpdox8cojuOvY9C) - no setup
 
-Minimal reproducibility hub for structural concentration tests.
+Run first: 30 sec, no setup.
+
+Ω is a structural concentration measure. This is not prediction, not causal proof, and not optimization. Structural concentration only.
+
+Zenodo is the canonical archive and public record. GitHub Pages is the execution and navigation hub.
 
 [Reproducibility package](https://zenodo.org/records/19159664)  
 [Run your own CSV](https://colab.research.google.com/drive/1FGu7_G1avub-0PUV6cpdox8cojuOvY9C)
@@ -11,7 +15,7 @@ Minimal reproducibility hub for structural concentration tests.
 
 ## Run First
 
-1. Open the Colab.
+1. Open the Colab with no setup.
 2. Run the notebook unchanged.
 3. Replace the sample data with your own CSV.
 
@@ -39,10 +43,10 @@ Compare whether concentration patterns appear before known events.
 
 ## Canonical Resources
 
-[Overview](https://zenodo.org/records/18296691)  
-[Reference guide](https://zenodo.org/records/20107274)  
-[Reproducibility package](https://zenodo.org/records/19159664)  
-[Runnable notebooks](https://github.com/onsenojisan/omega-repro)
+- [Canonical Overview](https://zenodo.org/records/18296691) - Zenodo public record
+- [Reference guide](https://zenodo.org/records/20107274) - navigation/reference for the Ω Library
+- [Reproducibility package](https://zenodo.org/records/19159664) - runnable notebooks and procedures
+- [Runnable notebooks](https://github.com/onsenojisan/omega-repro) - GitHub implementation workspace
 
 ---
 

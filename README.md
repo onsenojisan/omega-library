@@ -13,7 +13,7 @@ Start with the runnable homepage:
 
 Primary path:
 
-1. Run the 30 sec Colab.
+1. Run the 30 sec Colab with no setup.
 2. Reproduce the archived package.
 3. Test your own CSV data.
 4. Report results or reproducibility issues.
