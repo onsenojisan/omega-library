@@ -46,6 +46,7 @@ Compare whether concentration patterns appear before known events.
 ## Canonical Resources
 
 - [Canonical Overview](https://zenodo.org/records/18296691) - Zenodo public record
+- [Claim Boundary](CLAIM_BOUNDARY.md) - operational claim boundary for interpretation
 - [Reference guide](https://zenodo.org/records/20107274) - navigation/reference for the Ω Library
 - [Reproducibility package](https://zenodo.org/records/19159664) - runnable notebooks and procedures
 - [Runnable notebooks](https://github.com/onsenojisan/omega-repro) - GitHub implementation workspace
