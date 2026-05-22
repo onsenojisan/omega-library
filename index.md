@@ -53,8 +53,8 @@ Compare whether concentration patterns appear before known events.
 ## GitHub Reporting
 
 [Ω Library Repository](https://github.com/onsenojisan/omega-library)  
-[Report Reproducibility Issue](https://github.com/onsenojisan/omega-library/issues/new)  
-[Report Result / Null Result](https://github.com/onsenojisan/omega-library/issues/new)  
+[Report Reproducibility Issue](https://github.com/onsenojisan/omega-library/issues/new?template=reproducibility-issue.yml)
+[Report Result / Null Result](https://github.com/onsenojisan/omega-library/issues/new?template=report-result.yml)
 [View Runnable Notebooks](https://github.com/onsenojisan/omega-repro)
 
 Null results are useful and should be reported.
