@@ -57,8 +57,6 @@ Null results are useful and should be reported.
 
 ---
 
-## Background
+## Theory Background
 
-The theory background is The Pleasure Order.
-
-[WordPress background site](https://thepleasureorder.wordpress.com/)
+[The Pleasure Order background site](https://thepleasureorder.wordpress.com/)
