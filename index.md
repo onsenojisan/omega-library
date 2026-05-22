@@ -11,7 +11,7 @@ What Ω is NOT: prediction, causal proof, optimization, or deterministic collaps
 Zenodo is the canonical archive and public record. GitHub Pages is the execution and navigation hub.
 
 [Reproducibility package](https://zenodo.org/records/19159664)  
-[Run your own CSV](https://colab.research.google.com/drive/1FGu7_G1avub-0PUV6cpdox8cojuOvY9C)
+[Run your own CSV](https://colab.research.google.com/github/onsenojisan/omega-repro/blob/main/templates/omega_minimal_template/omega_minimal_template.ipynb)
 
 ---
 
@@ -35,11 +35,11 @@ Use the archived package to inspect and rerun the current public workflow.
 
 ## Use Your Own CSV
 
-Run the sample first, then replace the input CSV.
+Run the minimal Ω test on your own CSV.
 
 Compare whether concentration patterns appear before known events.
 
-[Run your own CSV](https://colab.research.google.com/drive/1FGu7_G1avub-0PUV6cpdox8cojuOvY9C)
+[Run your own CSV](https://colab.research.google.com/github/onsenojisan/omega-repro/blob/main/templates/omega_minimal_template/omega_minimal_template.ipynb)
 
 ---
 
