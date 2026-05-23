@@ -10,6 +10,13 @@ What Ω is NOT: prediction, causal proof, optimization, or deterministic collaps
 
 Zenodo is the canonical archive and public record. GitHub Pages is the execution and navigation hub.
 
+## Start Here
+
+- Want to run a minimal test? Use the Run 30 sec Colab above.
+- Want the overall framework? [Canonical Overview](https://zenodo.org/records/18296691)
+- Want navigation and structure? [Reference Guide](https://zenodo.org/records/20107274)
+- Want cross-domain examples? [Cross-Domain Summary](https://zenodo.org/records/20020739)
+
 [Reproducibility package](https://zenodo.org/records/19159664)  
 [Run your own CSV](https://colab.research.google.com/github/onsenojisan/omega-repro/blob/main/templates/omega_minimal_template/omega_minimal_template.ipynb)
 
@@ -47,7 +54,7 @@ Compare whether concentration patterns appear before known events.
 
 - [Canonical Overview](https://zenodo.org/records/18296691) - Zenodo public record
 - [Claim Boundary](CLAIM_BOUNDARY.md) - operational claim boundary for interpretation
-- [Reference guide](https://zenodo.org/records/20107274) - navigation/reference for the Ω Library
+- [Reference Guide](https://zenodo.org/records/20107274) - navigation/reference for the Ω Library
 - [Reproducibility package](https://zenodo.org/records/19159664) - runnable notebooks and procedures
 - [Runnable notebooks](https://github.com/onsenojisan/omega-repro) - GitHub implementation workspace
 
