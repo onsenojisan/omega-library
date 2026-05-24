@@ -6,7 +6,7 @@ They were published under the Japanese creator-name variants `相澤啓明` and 
 
 They are not part of the active Ω Library graph, expected_links, validator requirements, reproducibility protocol, or executable structural concentration tests.
 
-They are maintained only for internal continuity and future reference.
+They are maintained only for maintenance continuity and future reference.
 
 | Date | Title | Zenodo record URL | DOI | Classification | Notes |
 |---|---|---|---|---|---|

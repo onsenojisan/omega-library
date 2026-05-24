@@ -1,5 +1,7 @@
 # Core PDF Semantic Audit - 2026-05-22
 
+> Maintenance note: This is a public maintenance audit record, not the ordinary reader path. It reflects the repository and linked-record state at the time of review. Later fixes or restructuring may have superseded specific findings. For the current public entry points, use the repository root, `README.md`, `index.md`, and `CLAIM_BOUNDARY.md`.
+
 Scope:
 
 - Reproducibility Package for Structural Collapse and the Ω State Variable
