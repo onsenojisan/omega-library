@@ -23,3 +23,5 @@ Primary path:
 For executable reproduction results, notebook/Colab issues, CSV template issues, or result discussions, use the omega-repro issue tracker: https://github.com/onsenojisan/omega-repro/issues
 
 For navigation problems, broken links, artifact placement, documentation structure, or Ω Library architecture issues, use this repository's issue tracker: https://github.com/onsenojisan/omega-library/issues
+
+Maintenance notes and audit records are kept in `/maintenance/` and are not required for ordinary readers.
