@@ -8,8 +8,6 @@ Run first: 30 sec, no setup.
 
 What Ω is NOT: prediction, causal proof, optimization, or deterministic collapse. Structural concentration only.
 
-Open extension: high-Ω regimes may later be tested for risk analysis, intervention design, or control-oriented evaluation, but these are not current claims.
-
 Zenodo is the canonical archive and public record. GitHub Pages is the execution and navigation hub.
 
 ## Start Here
@@ -71,7 +69,7 @@ Compare whether concentration patterns appear before known events.
 
 Null results are useful and should be reported in omega-repro.
 
-Executable reproduction results, notebook/Colab issues, CSV template issues, and result discussions belong in omega-repro. Navigation, broken links, artifact placement, documentation structure, and Ω Library architecture issues belong here.
+Use omega-repro for runnable tests, notebooks, CSV templates, and result reports. Use this repository for navigation or documentation issues.
 
 ---
 
