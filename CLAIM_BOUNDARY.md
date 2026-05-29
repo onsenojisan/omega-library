@@ -56,6 +56,16 @@ This prevents circular interpretation.
 
 It does not by itself explain mechanism, establish cause, select an optimal policy, or determine future events.
 
+## Open extensions
+
+The present protocol does not claim prediction, causality, or intervention effects.
+
+A natural next stage is to test whether high-Ω regimes can support risk analysis, intervention design, or control-oriented evaluation under independently specified rules.
+
+These extensions are outside the current minimal claim and may be pursued in future work by domain specialists, independent contributors, or the present author.
+
+The current protocol only evaluates structural concentration: P(event | high Ω) versus baseline P(event).
+
 ## Null results are valid
 
 Null, weak, or near-baseline results are valid outcomes.

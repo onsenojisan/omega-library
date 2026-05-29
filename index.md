@@ -8,6 +8,8 @@ Run first: 30 sec, no setup.
 
 What Ω is NOT: prediction, causal proof, optimization, or deterministic collapse. Structural concentration only.
 
+Open extension: high-Ω regimes may later be tested for risk analysis, intervention design, or control-oriented evaluation, but these are not current claims.
+
 Zenodo is the canonical archive and public record. GitHub Pages is the execution and navigation hub.
 
 ## Start Here
