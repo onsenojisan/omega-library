@@ -44,7 +44,7 @@ Use the archived package to inspect and rerun the current public workflow.
 
 Run the minimal Ω test on your own CSV.
 
-Compare whether concentration patterns appear before known events.
+Compare whether independently declared events are structurally concentrated in high-Ω regimes.
 
 [Run your own CSV](https://colab.research.google.com/github/onsenojisan/omega-repro/blob/main/templates/omega_minimal_template/omega_minimal_template.ipynb)
 
