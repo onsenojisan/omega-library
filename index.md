@@ -62,14 +62,12 @@ Compare whether concentration patterns appear before known events.
 
 ## GitHub Reporting
 
-- [Ω Library Repository](https://github.com/onsenojisan/omega-library)
-- [Report executable reproduction result / notebook issue](https://github.com/onsenojisan/omega-repro/issues)
-- [Report navigation / documentation issue](https://github.com/onsenojisan/omega-library/issues)
-- [View Runnable Notebooks](https://github.com/onsenojisan/omega-repro)
+- [Executable tests / result reports](https://github.com/onsenojisan/omega-repro/issues)
+- [Navigation / documentation issues](https://github.com/onsenojisan/omega-library/issues)
 
 Null results are useful and should be reported in omega-repro.
 
-Use omega-repro for runnable tests, notebooks, CSV templates, and result reports. Use this repository for navigation or documentation issues.
+Use omega-repro for runnable tests, notebooks, CSV templates, and result reports; use omega-library for navigation and documentation issues.
 
 ---
 
