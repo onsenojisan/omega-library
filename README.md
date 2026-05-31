@@ -2,6 +2,8 @@
 
 Canonical GitHub Pages execution hub for the Ω Library.
 
+Boundary note: The earlier Ω-centered empirical layer should not be treated as current validation. Existing V1 materials remain historical, fixed, and Ω-centered. High ratio alone is not evidence. Future empirical claims require independent event labels, frozen definitions, anti-circularity review, sufficient support counts, and validation design before evaluation.
+
 Start with the runnable homepage:
 
 - GitHub Pages: https://onsenojisan.github.io/omega-library/
@@ -15,7 +17,7 @@ Primary path:
 
 1. Run the 30 sec Colab with no setup.
 2. Reproduce the archived package.
-3. Test your own CSV data.
+3. Run the historical V1 CSV comparison on your own data.
 4. Report results or reproducibility issues.
 
 ## Issue routing

@@ -1,11 +1,13 @@
 # Ω Claim Boundary
 
-This document fixes the operational claim boundary for the Ω framework and Execution Hub.
-It is not a theory paper. It is a stable reference for how results should be interpreted.
+This document records the operational claim boundary for the historical V1 Ω framework and Execution Hub.
+It is not a theory paper. It is a reference for how historical V1 results should be interpreted after the 2026-05-31 empirical boundary clarification.
 
-## What Ω currently evaluates
+Boundary note: The earlier Ω-centered empirical layer should not be treated as current validation. Existing V1 materials remain historical, fixed, and Ω-centered. High ratio alone is not evidence. Future empirical claims require independent event labels, frozen definitions, anti-circularity review, sufficient support counts, and validation design before evaluation.
 
-Ω currently evaluates whether independently defined events or states are structurally concentrated in high-Ω regimes under fixed definitions.
+## What historical V1 Ω evaluates
+
+Historical V1 Ω evaluates whether independently defined events or states are structurally concentrated in high-Ω regimes under fixed definitions. This is a historical V1 comparison format, not current validation of Ω.
 
 It supports reproducible comparison of:
 
@@ -26,7 +28,7 @@ It supports reproducible comparison of:
 - universal parameter equivalence;
 - proof of a universal physical law.
 
-These boundaries apply even when a result shows strong concentration.
+These boundaries apply even when a historical V1 result shows strong concentration. High ratio alone is not evidence.
 
 ## Fixed ex-ante definitions
 
@@ -58,13 +60,13 @@ It does not by itself explain mechanism, establish cause, select an optimal poli
 
 ## Open extensions
 
-The present protocol does not claim prediction, causality, or intervention effects.
+The historical V1 protocol does not claim prediction, causality, or intervention effects.
 
-A natural next stage is to test whether high-Ω regimes can support risk analysis, intervention design, or control-oriented evaluation under independently specified rules.
+A possible future stage would require independent event labels, frozen definitions, anti-circularity review, sufficient support counts, and validation design before evaluation. It should not be treated as validated vNext work.
 
 These extensions are outside the current minimal claim and may be pursued in future work by domain specialists, independent contributors, or the present author.
 
-The current protocol only evaluates structural concentration: P(event | high Ω) versus baseline P(event).
+The historical V1 protocol only evaluates structural concentration: P(event | high Ω) versus baseline P(event).
 
 ## Null results are valid
 

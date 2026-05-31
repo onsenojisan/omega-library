@@ -8,14 +8,16 @@ Run first: 30 sec, no setup.
 
 What Ω is NOT: prediction, causal proof, optimization, or deterministic collapse. Structural concentration only.
 
+Boundary note: The earlier Ω-centered empirical layer should not be treated as current validation. Existing V1 materials remain historical, fixed, and Ω-centered. High ratio alone is not evidence. Future empirical claims require independent event labels, frozen definitions, anti-circularity review, sufficient support counts, and validation design before evaluation.
+
 Zenodo is the canonical archive and public record. GitHub Pages is the execution and navigation hub.
 
 ## Start Here
 
-- Want to run a minimal test? Use the Run 30 sec Colab above.
+- Want to run the historical V1 minimal comparison? Use the Run 30 sec Colab above.
 - Want the overall framework? [Canonical Overview](https://zenodo.org/records/18296691)
 - Want navigation and structure? [Reference Guide](https://zenodo.org/records/20107274)
-- Want cross-domain examples? [Cross-Domain Summary](https://zenodo.org/records/20020739)
+- Want historical V1 cross-domain materials? [Cross-Domain Summary](https://zenodo.org/records/20020739)
 
 [Reproducibility package](https://zenodo.org/records/19159664)  
 [Run your own CSV](https://colab.research.google.com/github/onsenojisan/omega-repro/blob/main/templates/omega_minimal_template/omega_minimal_template.ipynb)
@@ -34,7 +36,7 @@ Zenodo is the canonical archive and public record. GitHub Pages is the execution
 
 ## Reproduce
 
-Use the archived package to inspect and rerun the current public workflow.
+Use the archived package to inspect and rerun the historical V1 public workflow.
 
 [Open reproducibility package](https://zenodo.org/records/19159664)
 
@@ -42,7 +44,7 @@ Use the archived package to inspect and rerun the current public workflow.
 
 ## Use Your Own CSV
 
-Run the minimal Ω test on your own CSV.
+Run the historical V1 minimal Ω comparison on your own CSV.
 
 Compare whether independently declared events are structurally concentrated in high-Ω regimes.
 
